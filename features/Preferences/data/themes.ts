@@ -253,11 +253,17 @@ const baseThemeSets: BaseThemeGroup[] = [
     icon: Moon,
     themes: [
       {
-  id: 'shaved-ice',
-  backgroundColor: 'oklch(95.0% 0.025 215.0 / 1)',
-  mainColor: 'oklch(60.0% 0.195 25.0 / 1)',
-  secondaryColor: 'oklch(65.0% 0.175 215.0 / 1)'
-},
+        id: 'shaved-ice',
+        backgroundColor: 'oklch(95.0% 0.025 215.0 / 1)',
+        mainColor: 'oklch(60.0% 0.195 25.0 / 1)',
+        secondaryColor: 'oklch(65.0% 0.175 215.0 / 1)'
+      },
+      {
+        id: 'cherry-cola',
+        backgroundColor: 'oklch(18.0% 0.055 20.0 / 1)',
+        mainColor: 'oklch(58.0% 0.195 25.0 / 1)',
+        secondaryColor: 'oklch(70.0% 0.145 50.0 / 1)'
+      },
       {
         id: 'lucky-bamboo',
         backgroundColor: 'oklch(92.0% 0.025 145.0 / 1)',
